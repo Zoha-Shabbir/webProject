@@ -30,4 +30,5 @@ namespace MyMvcAuthProject.Models
 
         public bool IsActive { get; set; } = true;
     }
+    //I added a comment 
 }
